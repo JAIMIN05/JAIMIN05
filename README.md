@@ -1,4 +1,4 @@
-[![MasterHead](https://softprodigy.com/wp-content/uploads/2019/06/software-development.png)](https://softprodigy.com/understanding-the-basics-of-full-stack-javascript-development-mean-and-mern-stacks/)
+[![MasterHead](https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif)
 <h1 align="center">Hi 👋, I'm Jaimin Kaneriya</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6f927365ba0fec8bd6e97bdcb9837c500515600a8c1bcc100f3c7a5287c6889e/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966">
