@@ -1,6 +1,4 @@
-[![MasterHead]
-[((https://www.google.com/url?sa=i&url=https%3A%2F%2Fsoftprodigy.com%2Funderstanding-the-basics-of-full-stack-javascript-development-mean-and-mern-stacks%2F&psig=AOvVaw3NhWimRvPNcyESLTmTxeef&ust=1740542237833000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCe66T33YsDFQAAAAAdAAAAABBA)
-)]
+
 <h1 align="center">Hi 👋, I'm Jaimin Kaneriya</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6f927365ba0fec8bd6e97bdcb9837c500515600a8c1bcc100f3c7a5287c6889e/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966">
