@@ -1,5 +1,5 @@
 <div align="center">
-[![MasterHead](https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif)
+[![MasterHead](https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif)]
 </div>
 <h1 align="center">Hi 👋, I'm Jaimin Kaneriya</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
